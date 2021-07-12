@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/https//Seroheree.github.io/Food-App/static/css/main.7149fdfd.chunk.css",
-    "main.js": "/https//Seroheree.github.io/Food-App/static/js/main.e4e1a892.chunk.js",
-    "main.js.map": "/https//Seroheree.github.io/Food-App/static/js/main.e4e1a892.chunk.js.map",
-    "runtime-main.js": "/https//Seroheree.github.io/Food-App/static/js/runtime-main.58613c32.js",
-    "runtime-main.js.map": "/https//Seroheree.github.io/Food-App/static/js/runtime-main.58613c32.js.map",
-    "static/js/2.775efdd4.chunk.js": "/https//Seroheree.github.io/Food-App/static/js/2.775efdd4.chunk.js",
-    "static/js/2.775efdd4.chunk.js.map": "/https//Seroheree.github.io/Food-App/static/js/2.775efdd4.chunk.js.map",
-    "static/js/3.6d69f5f8.chunk.js": "/https//Seroheree.github.io/Food-App/static/js/3.6d69f5f8.chunk.js",
-    "static/js/3.6d69f5f8.chunk.js.map": "/https//Seroheree.github.io/Food-App/static/js/3.6d69f5f8.chunk.js.map",
-    "index.html": "/https//Seroheree.github.io/Food-App/index.html",
-    "static/css/main.7149fdfd.chunk.css.map": "/https//Seroheree.github.io/Food-App/static/css/main.7149fdfd.chunk.css.map",
-    "static/js/2.775efdd4.chunk.js.LICENSE.txt": "/https//Seroheree.github.io/Food-App/static/js/2.775efdd4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/https//Seroheree.github.io/Food-App/static/media/bg2.9b57aed8.jpg"
+    "main.css": "/Food-App/static/css/main.5c1d6222.chunk.css",
+    "main.js": "/Food-App/static/js/main.e4e1a892.chunk.js",
+    "main.js.map": "/Food-App/static/js/main.e4e1a892.chunk.js.map",
+    "runtime-main.js": "/Food-App/static/js/runtime-main.f8449d5a.js",
+    "runtime-main.js.map": "/Food-App/static/js/runtime-main.f8449d5a.js.map",
+    "static/js/2.775efdd4.chunk.js": "/Food-App/static/js/2.775efdd4.chunk.js",
+    "static/js/2.775efdd4.chunk.js.map": "/Food-App/static/js/2.775efdd4.chunk.js.map",
+    "static/js/3.6d69f5f8.chunk.js": "/Food-App/static/js/3.6d69f5f8.chunk.js",
+    "static/js/3.6d69f5f8.chunk.js.map": "/Food-App/static/js/3.6d69f5f8.chunk.js.map",
+    "index.html": "/Food-App/index.html",
+    "static/css/main.5c1d6222.chunk.css.map": "/Food-App/static/css/main.5c1d6222.chunk.css.map",
+    "static/js/2.775efdd4.chunk.js.LICENSE.txt": "/Food-App/static/js/2.775efdd4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Food-App/static/media/bg2.9b57aed8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.58613c32.js",
+    "static/js/runtime-main.f8449d5a.js",
     "static/js/2.775efdd4.chunk.js",
-    "static/css/main.7149fdfd.chunk.css",
+    "static/css/main.5c1d6222.chunk.css",
     "static/js/main.e4e1a892.chunk.js"
   ]
 }
