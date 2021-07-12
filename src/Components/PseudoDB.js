@@ -1,0 +1,23 @@
+export const DataBase=[
+    {
+        name:'chleb',
+        kcal:258,
+        proteins:9.3,
+        carb:51,
+        fat:1
+    },
+    {
+        name:'jajka',
+        kcal:140,
+        proteins:12,
+        carb:0,
+        fat:10
+    },
+    {
+        name:'pierś',
+        kcal:200,
+        proteins:22,
+        carb:0,
+        fat:1
+    }
+]
